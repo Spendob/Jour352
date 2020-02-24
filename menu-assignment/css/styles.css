@@ -1,0 +1,86 @@
+.price {
+  font-style: italic;
+}
+
+body {
+  margin-left: auto;
+  margin-right: auto;
+  width: 625px;
+  font-family: "Raleway", sans-serif;
+}
+
+h3 {
+  color: #ab0036;
+  border-bottom: 1px dotted #C0C0C0;
+  padding-bottom: 5px;
+  margin-right: 350px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+h2 {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+h6 {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #ab0036
+}
+
+p {
+  font-size: 11.8px;
+}
+
+li {
+  font-size: 11.8px;
+}
+
+.picture img {
+  float: right;
+  height: 50%;
+  width: 45%;
+  margin-left: 50px;
+}
+
+a{
+  color: #ab0036;
+}
+
+#bold {
+  color: #000000;
+  font-weight: bold;
+}
+
+.topdot {
+  border-top: 1px dotted #C0C0C0;
+  border-bottom: 1px dotted #C0C0C0;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.box {
+  background-color: #cedbda;
+  border: 1px dotted;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.head {
+  text-align: center;
+  color: #7ba6a3;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.extra {
+  font-style: italic;
+  color: #7f8583;
+}
+
+.footnotes {
+  color: #7ba6a3;
+}
