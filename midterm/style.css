@@ -1,0 +1,57 @@
+/*
+font-family: 'Montserrat', ;
+font-family: 'Noto Serif', ;
+*/
+
+body {
+  font-family: 'Montserrat', helvetica, arial, sans-serif;
+  margin: 0 auto;
+  max-width: 80%;
+  font-size: 16px;
+  text-align: left;
+  line-height: 30px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'noto serif', serif;
+  line-height: 40px;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+img {
+  width: 100%;
+  align-content: center;
+  margin: 0 auto;
+}
+/*classes and ids*/
+
+.circle {
+  width: 30%;
+  float: right;
+  margin: 10 auto;
+}
+
+.story {
+  font-style: italic;
+}
+
+.caption {
+  color: gray;
+  font-size: 12px;
+}
+
+.pquote {
+    float: right;
+    width: 200px;
+    background: #bba8a4;
+    font-weight: bold;
+    padding: 13px;
+    margin: 13px 13px 13px 13px;
+}
+
+blockquote {
+    margin: 0;
+}
