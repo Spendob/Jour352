@@ -1,0 +1,82 @@
+/*Font*/
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Rubik&display=swap');
+
+
+body {
+  font-family: 'Montserrat', helvetica, arial, sans-serif;
+  margin: 0 auto;
+  max-width: 60%;
+  font-size: 16px;
+  text-align: left;
+  line-height: 30px;
+  background: rgb(255,255,255);
+background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(237,214,164,1) 25%, rgba(207,137,23,1) 78%, rgba(162,80,4,1) 100%);
+}
+
+div.header {
+  background-color: white;
+}
+
+div.body {
+  background-color: #FFD9A3;
+}
+
+hr {
+  background-color: black;
+}
+
+footer {
+  background: url(foot.png);
+  overflow-x: hidden;
+  padding: 14vmin 18vmin;
+}
+
+footer h1 {
+  color: #F5CE93;
+}
+
+h1 {
+  font-family: Rubik, serif;
+}
+
+h3 {
+  text-decoration: underline;
+}
+
+h5 {
+  font-family: Rubik, sans-serif;
+  text-decoration: underline;
+}
+
+p {
+  font-family: Merriweather, serif;
+}
+
+figcaption {
+  font-family: Merriweather, serif;
+  font-size: 12px;
+}
+
+img {
+  width: 100%;
+  align-content: center;
+  margin: 0 auto;
+
+  }
+
+.landscape  img {
+    width: 100%;
+    align-content: center;
+    margin: 0 auto;
+    }
+
+.portrait img {
+    width: 70%;
+    height: 70%;
+    align-content: center;
+    margin: 0 auto;
+    }
+
+footer p {
+  font-family: Rubik, sans-serif;
+}
